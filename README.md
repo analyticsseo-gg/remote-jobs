@@ -681,6 +681,7 @@ Name | Website | Region
 [Semaphore](/company-profiles/semaphore.md) | https://semaphoreci.com | Europe
 [Sendwave](/company-profiles/sendwave.md) | https://www.sendwave.com/ | Worldwide
 [SerpApi](/company-profiles/serpapi.md) | https://serpapi.com/ | Worldwide
+[SEO Inc](/company-profiles/seo-inc.md) | https://www.seoinc.com | United States
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
 [Session](/company-profiles/session.md) | https://getsession.com | Worldwide
